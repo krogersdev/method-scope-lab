@@ -1,3 +1,4 @@
-def catch_phrase
-  puts phrase
+phrase = "catchphrase"
+def catch_phrase(phrase)
+  puts "#{phrase}"
 end
